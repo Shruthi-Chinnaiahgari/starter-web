@@ -16,3 +16,5 @@ Sample website with plenty of files for demos
 Editing with main
 
 Editing with feature
+
+##Stashing
